@@ -3,6 +3,7 @@ import Header from "./components/header";
 import Balance from "./components/balance";
 import IncomeExpense from "./components/incomeExpenses";
 import TransactionList from "./components/transactionList";
+import AddTransaction from "./components/addTransaction";
 import "./App.css";
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
         <Balance />
         <IncomeExpense />
         <TransactionList />
+        <AddTransaction />
       </div>
     </React.Fragment>
   );
