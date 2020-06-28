@@ -1,6 +1,6 @@
 ## Expense Tracker
 
-Keep track of income and expenses. Add and remove items and save to local storage
+Keep track of income and expenses. Add and remove items.
 
 ## Project Specifications
 
@@ -8,4 +8,4 @@ Keep track of income and expenses. Add and remove items and save to local storag
 - Display transaction items
 - Show balance, expense and income totals
 - Add new transation and reflect in total
-- Delete items=
+- Delete items
